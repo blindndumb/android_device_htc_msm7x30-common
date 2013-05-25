@@ -107,9 +107,8 @@ PRODUCT_PACKAGES += \
     VisualizationWallpapers \
     librs_jni
 
-# Misc Packages
+# Torch
 PRODUCT_PACKAGES += \
-    DeviceSettings \
     Torch
 
 # Filesystem management tools
